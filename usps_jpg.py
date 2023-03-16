@@ -1,7 +1,6 @@
 import numpy
 from PIL import Image
 import os
-import matplotlib.pyplot as plt
 
 def read_dataset(path):
     images = ""
